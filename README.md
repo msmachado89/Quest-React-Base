@@ -1,12 +1,13 @@
-# React + Vite
+# QUEST React Base
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Resolução da Quest proposta no módulo de React Base do curso DevQuest para Desenvolvimento Web FullStack.
 
-Currently, two official plugins are available:
+## 🛠️ Construído com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [VS Code](https://code.visualstudio.com/) - O Visual Studio Code foi o editor de código utilizado.
 
-## Expanding the ESLint configuration
+## ✒️ Autores
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Fui o único a trabalhar nesse projeto, já que se trata da resolução de um exercício do curso de Desenvolvimento Web FullStack em que estou matriculado, o DevQuest.
+
+* **Marcelo Machado** - [@msmachado89](https://github.com/msmachado89)
